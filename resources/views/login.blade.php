@@ -10,6 +10,7 @@
     <meta name="author" content="">
 
     <title>SB Admin 2 - Login</title>
+    @notifyCss
 
     <!-- Custom fonts for this template-->
     <link href="/sbadmin/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -74,6 +75,9 @@
 
     <!-- Custom scripts for all pages-->
     <script src="/sbadmin/js/sb-admin-2.min.js"></script>
+
+    <x-notify::notify />
+        @notifyJs
 
 </body>
 
