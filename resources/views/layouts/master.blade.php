@@ -56,9 +56,7 @@
                 <a class="nav-link" href="/admin/laporan">
                     <i class="fas fa-fw fa-file"></i>
                     <span>Laporan</span></a>
-</li>
-   
-
+            </li>
             <!-- Divider -->
             <hr class="sidebar-divider">
             
